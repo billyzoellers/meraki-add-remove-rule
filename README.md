@@ -1,7 +1,10 @@
 ## Meraki Add/Remove rule
 Select an organization, network, group policy, and Layer 7 application category. If the Layer 7 category exists as a deny rule, remove it. If it does not exist, add it.
 
-You must define settings in `settings.toml` and `secrets.toml` to run the app
+## Getting started
+1. `pip install -r requirements.txt`
+2. Define settings in `settings.toml` and `secrets.toml` to run the app
+3. Go!
 
 ### settings.toml
 [meraki]
