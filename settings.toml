@@ -1,0 +1,5 @@
+[meraki]
+org_name = 'Zoellers'
+net_name = 'Lexington KY'
+grouppolicy_name = 'Test group policy'
+l7_category = 'Video & music'
